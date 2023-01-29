@@ -36,8 +36,7 @@
  </p>
   
    
- <br>🔭 Desenvolvedor Flutter <br>
- <br>✍️ Estudando node.js<br>
+ <br>🔭 Desenvolvedor Flutter/Node.js<br>
         
  <br>💬 Vitor6890@gmail.com     <br>
      
