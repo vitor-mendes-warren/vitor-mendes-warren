@@ -20,7 +20,7 @@
 <p align="center">   
 
  
-<img src="https://user-images.githubusercontent.com/94265037/155259526-7e8e35ca-af96-47b9-b327-028ff3251db4.png" width="130" />&nbsp;
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" width="90" />&nbsp;&nbsp;&nbsp; 
   <img src="https://icon-library.com/images/node-icon/node-icon-21.jpg" width="170" height="100" />
  <!--<img src="https://user-images.githubusercontent.com/94265037/155260662-3e2bbf21-6b1f-41b1-bd87-c0c84db944ee.png" width="190"/>  sqlite-->
